@@ -1,0 +1,16 @@
+PART 1
+
+a) T (n) = 3T (n/2) + n
+Time complexity is Θ(n^log3)
+
+b) T (n) = 64T (n/8) − n^2(log n)
+NA
+
+c) T (n) = 2nT (n/2) + n^n
+NA
+
+d) T (n) = 3T (n/3) + n/2
+Time complexity is Θ(n log n)
+
+e) T (n) = 7T (n/3) + n^2
+Time complexity is Θ(n^2)
